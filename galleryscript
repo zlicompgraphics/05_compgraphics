@@ -1,0 +1,22 @@
+box
+150 325 0 200 200 200
+sphere
+200 425 0 75
+box
+25 300 0 100 50 50
+box
+150 150 0 50 150 50
+box
+250 150 0 50 150 50
+box
+325 275 0 100 50 50
+ident
+rotate
+x 20
+rotate
+y 20
+apply
+display
+save
+construct.png
+quit
